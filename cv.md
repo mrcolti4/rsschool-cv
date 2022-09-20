@@ -4,6 +4,7 @@
 * Location: Zaporizhya, Ukraine
 * Phone: +380 663 168 308
 * E-mail: kbulygin456@gmail.com
+* Discord: Kirill Bulyhin(mrcolti4)
 ### About me
 I got acquainted with programming in 2019, then I just started my journey learning HTML and CSS from the book "The New Big Book of CSS" by David Sawyer McFarland and McFarland David. Having created a couple of simple websites, I realized that I wanted to create not just a layout, but something more and decided to learn a real programming language. I chose Python as my first language because it was on the rise. And later I got acquainted with his most popular framework - Django.
 
