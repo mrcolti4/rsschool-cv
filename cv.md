@@ -10,9 +10,10 @@ I got acquainted with programming in 2019, then I just started my journey learni
 
 In these courses from rs school, I expect to advance in my knowledge of markup and Java Script language in order to become a professional developer later
 ### Skills 
-* HTML5, CSS
+* Layout: HTML5, CSS
 * JS Basics
-* Python, Python Django basics
+* Python
+* Python framework: Django basics
 * Git, GitHub
 * AdobePhotoshop, Figma
 * Neovim, VS Code, Intellij IDEA
@@ -49,3 +50,20 @@ def first_non_repeating_letter(string):
     result = [i.upper() if i.upper() in string else i.lower() for i in counter if counter[i] == 1]
     return result[0] if result else ''
 ```
+### My projects
+Here are links to my projects made with HTML, CSS and JavaScript:
+* [Dart](https://mrcolti4.github.io/dart/)
+* [Fmc](https://mrcolti4.github.io/fmc/)
+* [Pulse](https://mrcolti4.github.io/pulse/)
+* [Uber](https://mrcolti4.github.io/uber/)
+* [Delivery](https://mrcolti4.github.io/delivery/)
+
+### Courses
+* [Web-developer 2022](https://www.udemy.com/course/webdeveloper/)
+* [Learn JavaScript](https://learn.javascript.ru/)
+* RS Schools Course «JavaScript/Front-end 2022Q3» *in progress*
+
+### Languages 
+* English: Pre-Intermediate
+* Russian: Native 
+* Ukrainian: Intermediate
